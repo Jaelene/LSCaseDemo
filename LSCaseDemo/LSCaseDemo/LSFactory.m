@@ -67,7 +67,7 @@
     NSDictionary* dmdic = [self fc_DMInfo];
     NSArray* pics = dmdic[@"Welcome pictures"];
     if (!pics || pics.count == 0) {
-        return @[kNotFoundObj(@"")];
+        return @[@""];
     }
     return pics;
 }

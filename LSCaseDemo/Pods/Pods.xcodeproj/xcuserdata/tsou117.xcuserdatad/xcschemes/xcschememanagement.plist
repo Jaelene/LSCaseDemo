@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MJRefresh.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-LSCaseDemo.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -14,15 +19,30 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5AF94C0386C3D485E7DED5BF697773CF</key>
+		<key>70BC44266C6FFE30D2C57129458E070B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FBF52FDF88D61EF74B7278495BD8F216</key>
+		<key>8D391566A56F8CC132F105DA1AA1D160</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E0E83268BBB479B5913537DA870A27F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E18454A62BB44833A331F1AC08FC4681</key>
 		<dict>
 			<key>primary</key>
 			<true/>
